@@ -1,0 +1,4 @@
+#/bin/bash
+python picam.py > /dev/null &
+python picammon.py > /dev/null &
+
