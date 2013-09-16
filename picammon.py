@@ -15,9 +15,9 @@ count = len(watchdir)
 dirmtime = os.stat(watchdir).st_mtime
 
 # email settings
-emailFrom = 'raspiofapu@gmail.com'
-emailFromPwd = 'iamlegend10'
-emailTo = 'theapu@gmail.com'
+emailFrom = 'raspiofme@gmail.com'
+emailFromPwd = 'password'
+emailTo = 'tome@gmail.com'
 emailSubject = 'MOTION DETECTED!!!';
 
 # Send an email with a picture attached
